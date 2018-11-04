@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: themesnap Portfolio\n"
+"POT-Creation-Date: 2018-11-04 00:25+0500\n"
+"PO-Revision-Date: 2018-11-04 00:25+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/class_portfolio_cpt.php:16
+msgid "Portfolio"
+msgstr ""
+
+#: inc/class_portfolio_cpt.php:17
+msgid "Portfolio Post"
+msgstr ""
+
+#: inc/class_portfolio_cpt.php:18 inc/class_portfolio_cpt.php:21
+msgid "Add New"
+msgstr ""
+
+#: inc/class_portfolio_cpt.php:19
+msgid "Add New Portfolio"
+msgstr ""
+
+#: inc/class_portfolio_cpt.php:20
+msgid "Edit Portfolio"
+msgstr ""
+
+#: inc/class_portfolio_cpt.php:22
+msgid "View Portfolio"
+msgstr ""
+
+#: inc/class_portfolio_cpt.php:23
+msgid "All Portfolio Items"
+msgstr ""
+
+#: inc/class_portfolio_cpt.php:24
+msgid "Search Portfolio"
+msgstr ""
+
+#: inc/class_portfolio_cpt.php:25
+msgid "No portfolio items found"
+msgstr ""
+
+#: inc/class_portfolio_cpt.php:26
+msgid "No portfolio items found in trash"
+msgstr ""
+
+#: inc/class_portfolio_taxonomy.php:14 inc/class_portfolio_widget.php:18
+msgid "Portfolio Categories"
+msgstr ""
+
+#: inc/class_portfolio_taxonomy.php:15
+msgid "Portfolio Category"
+msgstr ""
+
+#: inc/class_portfolio_taxonomy.php:16
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: inc/class_portfolio_taxonomy.php:17
+msgid "Popular Portfolio Categories"
+msgstr ""
+
+#: inc/class_portfolio_taxonomy.php:18
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: inc/class_portfolio_taxonomy.php:19
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: inc/class_portfolio_taxonomy.php:20
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: inc/class_portfolio_taxonomy.php:21
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: inc/class_portfolio_taxonomy.php:22
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: inc/class_portfolio_taxonomy.php:23
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: inc/class_portfolio_taxonomy.php:24
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: inc/class_portfolio_taxonomy.php:25
+msgid "Separate portfolio categories with commas"
+msgstr ""
+
+#: inc/class_portfolio_taxonomy.php:26
+msgid "Add or remove portfolio categories"
+msgstr ""
+
+#: inc/class_portfolio_taxonomy.php:27
+msgid "Choose from the most used portfolio categories"
+msgstr ""
+
+#: inc/class_portfolio_taxonomy.php:28
+msgid "Categories"
+msgstr ""
+
+#: inc/class_portfolio_widget.php:15
+msgid "A widget that displays your Portfolio categories."
+msgstr ""
+
+#: inc/class_portfolio_widget.php:45
+msgid "All"
+msgstr ""
+
+#: inc/class_portfolio_widget.php:77
+msgid "Title:"
+msgstr ""

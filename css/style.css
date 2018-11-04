@@ -1,0 +1,26 @@
+.post-type-portfolio #post-format-0,
+.post-type-portfolio .post-format-standard,
+.post-type-portfolio .post-format-standard + br,
+
+.post-type-portfolio #post-format-aside,
+.post-type-portfolio .post-format-aside,
+.post-type-portfolio .post-format-aside + br,
+
+.post-type-portfolio #post-format-status,
+.post-type-portfolio .post-format-status,
+.post-type-portfolio .post-format-status + br,
+
+.post-type-portfolio #post-format-chat,
+.post-type-portfolio .post-format-chat,
+.post-type-portfolio .post-format-chat + br,
+
+.post-type-portfolio #post-format-link,
+.post-type-portfolio .post-format-link,
+.post-type-portfolio .post-format-link + br,
+
+.post-type-portfolio #post-format-quote,
+.post-type-portfolio .post-format-quote,
+.post-type-portfolio .post-format-quote + br
+{
+	display: none;
+}
